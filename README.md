@@ -9,3 +9,5 @@ Bai3:
 ![B3 1](https://github.com/user-attachments/assets/61a165c3-be7c-4a1e-af34-e63f8cfb6c90)
 ![B3 2](https://github.com/user-attachments/assets/abf5c8b6-6fcd-4e06-a0cb-3dec3a8563d9)
 ![B3 3](https://github.com/user-attachments/assets/15052a72-2f38-4da6-ba5d-4f02d2459c4a)
+Bai Tap Buoi 3 
+Bai 1.1:
